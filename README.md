@@ -7,5 +7,4 @@
 - 💬 Ask me about Front-End Web Development.
 - 📫 How to reach me: LinkedIn sifat-ali
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact:
